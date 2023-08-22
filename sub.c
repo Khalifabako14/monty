@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-  *f_sub - Acts as a sustration
+  *f_sub - A Function that acts as a sustration
   *@head: stack head
   *@counter: line_number
   *Return: no return
